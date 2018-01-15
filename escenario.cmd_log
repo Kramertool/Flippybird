@@ -1,0 +1,1 @@
+vhdtdtfi -prj test -o H:/Xilinx/test/escenario.vhi -module escenario -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work escenario.vhd 

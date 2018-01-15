@@ -1,0 +1,1 @@
+vhdtdtfi -prj test -o C:/Xilinx/FINAL/test2/test/puntuacion.vhi -module puntuacion -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work puntuacion.vhd 

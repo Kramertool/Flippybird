@@ -1,0 +1,1 @@
+vhdtdtfi -prj test -o H:/Xilinx/test/titulo.vhi -module titulo -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work titulo.vhd 

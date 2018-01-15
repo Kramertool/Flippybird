@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Xilinx\FINAL\test2\test\juegotop.ncd
+OUTFILE=C:\Xilinx\FINAL\test2\test\juegotop.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Xilinx\FINAL\test2\test
+LICENSE=WebPack
+USER_INFO=211419412_0_0_176

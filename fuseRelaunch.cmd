@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/FINAL/test2/test/aleatorio_tb_isim_beh.exe" -prj "C:/Xilinx/FINAL/test2/test/aleatorio_tb_beh.prj" "aleatorio_tb" 
